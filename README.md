@@ -18,10 +18,9 @@ used/使用后的Controller <br>
 注意:该库强依赖afnetworking和mjextension.(afnetworking仅支持3.0以上版本,mjextension理论可兼容其他历史版本).<br>
 warning:strongly rely on afnetworking and mjextension.(afnetworking needs to be 3.0+ version)<br>
 
-1,put afnetworking 3.0+ and mjextension into your project/项目集成 afnetworking3.0+ 和 mjextension 3.0.10(理论上兼容其他版本)<br>
-2,put SYNetModel into your project/集成SYNetModel进项目<br>
-3,create your model and implements SYNetModel/创建你的模型并继承SYNetModel(模型属性需要自己对照接口返回参数设定,你懂的.)<br>
-4,call model's class method @" netModel..."/调用你的模型的类方法 netModel...(出提示回车即可,参数可以option+点击查看)<br>
+1,put SYNetModel into your project/集成SYNetModel进项目<br>
+2,create your model and implements SYNetModel/创建你的模型并继承SYNetModel(模型属性需要自己对照接口返回参数设定,你懂的.)<br>
+3,call model's class method @" netModel..."/调用你的模型的类方法 netModel...(出提示回车即可,参数可以option+点击查看)<br>
 
 
 
